@@ -10,7 +10,8 @@ class Dear_FCC_Widget {
 
 	static $options = array(
 			'animation' => 'banner',
-			'theme' => 'dark',
+			'theme' => 'light',
+			'position' => 'bottomright',
 	);
 
 	function is_slowdown_day() {
